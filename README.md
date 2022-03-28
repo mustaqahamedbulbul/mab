@@ -18,4 +18,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustaqahamedbulbul&" alt="mustaqahamedbulbul" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustaqahamedbulbul&theme=radical" alt="mustaqahamedbulbul" /></p>
