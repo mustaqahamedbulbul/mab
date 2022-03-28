@@ -16,6 +16,6 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mustaqahamedbulbul&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustaqahamedbulbul&show_icons=true&locale=en" alt="mustaqahamedbulbul" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustaqahamedbulbul&" alt="mustaqahamedbulbul" /></p>
