@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 [Instagram - @mustaq_._](https://www.instagram.com/mustaq_._/),
 [Medium - @mustaqahamedbulbul](https://medium.com/@mustaqahamedbulbul)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact:I can paly almost 12 hours playing outdoor games everyday.
+- ⚡ Fun fact:I can paly almost 12 hours outdoor games everyday.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mustaqahamedbulbul&theme=radical)
