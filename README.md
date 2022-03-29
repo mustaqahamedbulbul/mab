@@ -1,5 +1,12 @@
 ### Guten Tag! I,Mustaq Ahamed Bulbul. 👋
 ![Masterhead](https://thumbs.gfycat.com/WelldocumentedCriminalApatosaur-max-1mb.gif)
+- 🌱 I’m currently learning DevOps.
+- 👯 I’m looking to collaborate on Open Source Contribution.
+- 💬 Ask me about tech related stuffs.
+- 📫 How to reach me:@mustaqahamedbulbul1999@gmail.com
+- 😄 Pronouns:He/His.
+- ⚡ Fun fact:I can play outdoor games all day.
+
 <h3 align="center">|Computer Science & Engineering Student|</h3>
 
 <a href="https://twitter.com/mustaq_bulbul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mustaq_bulbul" height="30" width="40" /></a>
@@ -20,7 +27,6 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustaqahamedbulbul&theme=radical" alt="mustaqahamedbulbul" /></p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustaqahamedbulbul&hide=java,c,html,css&theme=tokyonight)
 
 
 
