@@ -1,6 +1,7 @@
 ### Guten Tag! I,Mustaq Ahamed Bulbul. 👋
 ![Masterhead](https://thumbs.gfycat.com/WelldocumentedCriminalApatosaur-max-1mb.gif)
-<h3 align="right" alt="Coding" width="400" src"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjwC-JaLeSezL_YLCt9_qEcYlVge-Tmyf-Yg&usqp=CAU">
+<h3 align="center"> Software Development Enthusiast</h3>
+<image align="right" alt="Coding" width="400" src"https://c.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif">
 <p align="left">
 <a href="https://twitter.com/mustaq_bulbul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mustaq_bulbul" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mustaq-ahamed-bulbul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustaq-ahamed-bulbul" height="30" width="40" /></a>
