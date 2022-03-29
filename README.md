@@ -1,6 +1,6 @@
 ### Guten Tag! I,Mustaq Ahamed Bulbul. 👋
 ![Masterhead](https://thumbs.gfycat.com/WelldocumentedCriminalApatosaur-max-1mb.gif)
-<h3 align="center">Computer Science & Engineering Student</h3>
+<h3 align="center">|Computer Science & Engineering Student|</h3>
 
 <a href="https://twitter.com/mustaq_bulbul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mustaq_bulbul" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mustaq-ahamed-bulbul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustaq-ahamed-bulbul" height="30" width="40" /></a>
