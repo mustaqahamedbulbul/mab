@@ -20,7 +20,7 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustaqahamedbulbul&theme=radical" alt="mustaqahamedbulbul" /></p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustaqahamedbulbul&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustaqahamedbulbul&hide=java,c,html,css&theme=tokyonight)
 
 
 
