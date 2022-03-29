@@ -1,6 +1,6 @@
 ### Guten Tag! I,Mustaq Ahamed Bulbul. 👋
 ![Masterhead](https://thumbs.gfycat.com/WelldocumentedCriminalApatosaur-max-1mb.gif)
-                    Curious Programmer, Sporty who didn't attent school of hard knocks or university of life. Slept in instead and missed all the classes.
+                   A Curious Programmer, Sporty who didn't attent school of hard knocks or university of life. Slept in instead and missed all the classes.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Presently pursuing my Bachelor of Technology(B.Tech) at Siliguri Institute of Technology affiliated under Maulana abul Kalam Azad university of Technology. My specialization is Computer Science and Engineering(CSE).I aspire to maximize human potential around me by building products & content in education, tech, and business.In addition to that I am also Seeking for opportunities in an organization which provides me with ample opportunities to enhance my skills and knowledge along with contributing to the growth of the organization. Apart from my work,I read about Operating Systems, Computer Networks, Database Management Systems, OOPs, Data Structure, Algorithm etc. and try to apply the gained ideas to solve real life problems.
 - 🌱 I’m currently learning DevOps.
