@@ -20,3 +20,8 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustaqahamedbulbul&theme=radical" alt="mustaqahamedbulbul" /></p>
+![[Top Langs](https://github-readme-stats.vercel.app/api?username=mustaqahamedbulbul&theme=radical)
+
+
+
+
