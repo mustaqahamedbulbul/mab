@@ -6,7 +6,7 @@ Presently pursuing my Bachelor of Technology(B.Tech) at Siliguri Institute of Te
 - 🌱 I’m currently learning DevOps.
 - 👯 I’m looking to collaborate on Open Source Contribution.
 - 💬 Ask me about tech related stuffs.
-- 📫 How to reach me:@mustaqahamedbulbul1999@gmail.com
+- 📫 How to reach me:mustaqahamedbulbul1999@gmail.com
 - 😄 Pronouns:He/His.
 - ⚡ Fun fact:I can play outdoor games all day.
 
